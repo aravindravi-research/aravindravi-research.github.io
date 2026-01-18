@@ -50,6 +50,7 @@ export default function RootLayout({
               "@type": "Person",
               "@id": `${SITE.url}/#aravind-ravi`,
               name: SITE.name,
+              alternateName: ["Arurockzsz"],
               url: SITE.url,
               jobTitle: "Staff Software Engineer",
               description: SITE.description,
