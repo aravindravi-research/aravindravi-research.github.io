@@ -5,7 +5,7 @@ export default function HomePage() {
     <main className="mx-auto max-w-3xl px-6 py-16">
       <h1 className="text-4xl font-semibold tracking-tight">Aravind Ravi</h1>
       <p className="mt-3 text-lg opacity-80">
-        Staff Software Engineer · Independent Researcher
+        Staff Software Engineer · Independent AI Systems Researcher
       </p>
 
       <p className="mt-8 leading-7 opacity-90">
