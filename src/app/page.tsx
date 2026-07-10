@@ -1,5 +1,3 @@
-
-
 export default function HomePage() {
   return (
     <main className="mx-auto max-w-3xl px-6 py-16">
@@ -9,7 +7,7 @@ export default function HomePage() {
       </p>
 
       <p className="mt-8 leading-7 opacity-90">
-        I design and study foundational system architectures for long-running AI applications:
+        I build and study foundational system architectures for long-running AI applications:
         systems where correctness, continuity, and control matter more than raw model capability.
       </p>
 
@@ -28,7 +26,7 @@ export default function HomePage() {
       </p>
 
       <p className="mt-3 leading-7 opacity-90">
-        I am the author of HNIR: <em>A Deterministic Intent Routing Control Plane for Distributed Conversational Systems</em>.
+        My current publication work includes HNIR... systems.
       </p>
     </main>
   );
