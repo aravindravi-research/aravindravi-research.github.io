@@ -9,9 +9,7 @@ export default function AboutPage() {
       </p>
 
       <p className="mt-4 leading-7 opacity-90">
-        My research explores deterministic control plane architectures that ensure reliable execution
-        patterns across decentralized systems, observability frameworks that preserve causal context,
-        and memory infrastructure bridging ephemeral interactions with persistent knowledge graphs.
+        My current research asks how distributed AI systems should route intent, preserve longitudinal memory, expose observable state, and keep deterministic control planes in charge when conversations and tasks span days instead of turns.
       </p>
 
       <p className="mt-4 leading-7 opacity-90">
