@@ -9,7 +9,7 @@ export default function AboutPage() {
       </p>
 
       <p className="mt-4 leading-7 opacity-90">
-        I publish research and writing through <a className="underline underline-offset-4" href="https://www.teknamin.com">Teknamin Labs</a>.
+        I publish research and writing through <a className="underline underline-offset-4" href="https://www.teknamin.com/">Teknamin Labs</a>.
       </p>
     </main>
   );
